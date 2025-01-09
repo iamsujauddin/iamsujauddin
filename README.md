@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate **Java Backend Developer** with e
 
 ## 💼 Connect with Me
 
-- **LinkedIn**: [https://linkedin.com/in/yourusername]
+- **LinkedIn**: [SK Sujauddin](https://www.linkedin.com/in/sk-sujauddin/)
 - **Email**: [suja.hash69@gmail.com](mailto:suja.hash69@gmail.com)
 
 ---
