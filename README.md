@@ -10,8 +10,6 @@ I'm a **Java Backend Developer** with expertise in **Spring Boot**, **Microservi
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsujauddin&show_icons=true&theme=tokyonight) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamsujauddin&theme=tokyonight) |
 |----------------------------------------------------------|------------------------------------------------------------|
 
-## Connect with Me
-
 <p align="left">
   <a href="https://linkedin.com/in/sk-sujauddin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
