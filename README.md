@@ -5,7 +5,7 @@ I'm a passionate **Java Backend Developer** specializing in **Spring Boot**, **M
 |--------------|---------------|
 | - 🔧 **Languages**: Java, SQL  <br> - 📚 **Frameworks**: Spring, Spring Boot  <br> - 🏗️ **Architecture**: Microservices  <br> - 🌱 Exploring **DevOps** and microservices patterns. | - 💻 Build **scalable backend systems** with **Spring Boot**.  <br> - ⚡ Integrate **Kafka** for event-driven solutions.  <br> - 📊 Optimize **SQL queries** and schema design.  <br> - 🚀 Automate CI/CD pipelines with **Jenkins** and **Docker**. |
 
-| ![GitHub Stats ⚡⚡ ](https://github-readme-stats.vercel.app/api?username=iamsujauddin&show_icons=true&theme=tokyonight) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamsujauddin&theme=tokyonight) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsujauddin&show_icons=true&theme=tokyonight) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamsujauddin&theme=tokyonight) |
 |----------------------------------------------------------|------------------------------------------------------------|
 
 <p align="left">
