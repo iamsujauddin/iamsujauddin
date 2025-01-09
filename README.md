@@ -5,31 +5,9 @@ I'm a **Java Backend Developer** who loves building scalable, efficient, and rel
 
 ## 🚀 **About Me** & ⚡ **What I Do**
 
-<div style="display: flex; justify-content: space-between;">
-
-<div style="width: 48%;">
-
-### 👨‍💻 **About Me**
-- 🔧 **Languages**: Java, SQL  
-- 📚 **Frameworks**: Spring, Spring Boot  
-- 🏗️ **Architecture**: Microservices  
-- 🌱 Exploring advanced **DevOps** and microservices patterns.  
-- 💬 Always eager to collaborate on impactful projects.  
-
-</div>
-
-<div style="width: 48%;">
-
-### 🛠️ **What I Do**
-- 💻 Build **scalable backend systems** with **Spring Boot**.  
-- ⚡ Integrate **Kafka** for event-driven solutions.  
-- 📊 Optimize **SQL queries** and schema design.  
-- 🚀 Automate CI/CD pipelines with **Jenkins** and **Docker**.  
-- 🏗️ Design **microservices** for modern architectures.  
-
-</div>
-
-</div>
+| **About Me** | **What I Do** |
+|--------------|---------------|
+| - 🔧 **Languages**: Java, SQL  <br> - 📚 **Frameworks**: Spring, Spring Boot  <br> - 🏗️ **Architecture**: Microservices  <br> - 🌱 Exploring advanced **DevOps** and microservices patterns.  <br> - 💬 Always eager to collaborate on impactful projects. | - 💻 Build **scalable backend systems** with **Spring Boot**.  <br> - ⚡ Integrate **Kafka** for event-driven solutions.  <br> - 📊 Optimize **SQL queries** and schema design.  <br> - 🚀 Automate CI/CD pipelines with **Jenkins** and **Docker**.  <br> - 🏗️ Design **microservices** for modern architectures. |
 
 ---
 
@@ -39,13 +17,6 @@ I'm a **Java Backend Developer** who loves building scalable, efficient, and rel
   <img src="https://github-readme-stats.vercel.app/api?username=iamsujauddin&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsujauddin&theme=tokyonight" alt="GitHub Streak Stats" width="48%" />
 </p>
-
----
-
-## 🌟 **Projects**
-
-- **Microservices Demo App**: Demonstrates event-driven systems with Kafka.  
-- **SQL Optimizer**: A repository of optimized queries and database tips.  
 
 ---
 
