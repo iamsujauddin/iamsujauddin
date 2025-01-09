@@ -10,16 +10,16 @@ I'm a passionate **Java Backend Developer** specializing in **Spring Boot**, **M
 
 <p align="left">
   <a href="https://linkedin.com/in/sk-sujauddin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:suja.hash69@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/iamsujauddin" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=plastic&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://leetcode.com/iamsujauddin" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=plastic&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
