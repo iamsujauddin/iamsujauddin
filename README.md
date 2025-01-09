@@ -1,24 +1,16 @@
 # 👋 Hi there! I'm **SK Sujauddin**  
-I'm a **Java Backend Developer** who loves building scalable, efficient, and reliable backend systems. With expertise in **Spring Boot**, **Microservices**, and **Kafka**, I focus on delivering robust solutions that make an impact.
+I'm a **Java Backend Developer** with expertise in **Spring Boot**, **Microservices**, and **Kafka**. I focus on building scalable, efficient, and reliable backend systems.
 
----
-
-## 🚀 **About Me** & ⚡ **What I Do**
-
-| **About Me** | **What I Do** |
+| 🚀 **About Me** | ⚡ **What I Do** |
 |--------------|---------------|
-| - 🔧 **Languages**: Java, SQL  <br> - 📚 **Frameworks**: Spring, Spring Boot  <br> - 🏗️ **Architecture**: Microservices  <br> - 🌱 Exploring advanced **DevOps** and microservices patterns.  <br> - 💬 Always eager to collaborate on impactful projects. | - 💻 Build **scalable backend systems** with **Spring Boot**.  <br> - ⚡ Integrate **Kafka** for event-driven solutions.  <br> - 📊 Optimize **SQL queries** and schema design.  <br> - 🚀 Automate CI/CD pipelines with **Jenkins** and **Docker**.  <br> - 🏗️ Design **microservices** for modern architectures. |
+| - 🔧 **Languages**: Java, SQL  <br> - 📚 **Frameworks**: Spring, Spring Boot  <br> - 🏗️ **Architecture**: Microservices  <br> - 🌱 Exploring **DevOps** and microservices patterns. | - 💻 Build **scalable backend systems** with **Spring Boot**.  <br> - ⚡ Integrate **Kafka** for event-driven solutions.  <br> - 📊 Optimize **SQL queries** and schema design.  <br> - 🚀 Automate CI/CD pipelines with **Jenkins** and **Docker**. |
 
----
-
-## 📈 **GitHub Stats**
+## GitHub Stats
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsujauddin&show_icons=true&theme=tokyonight) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamsujauddin&theme=tokyonight) |
 |----------------------------------------------------------|------------------------------------------------------------|
 
----
-
-## 💼 **Connect with Me**
+## Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/sk-sujauddin" target="_blank">
@@ -34,7 +26,5 @@ I'm a **Java Backend Developer** who loves building scalable, efficient, and rel
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
-
----
 
 Thanks for visiting! Let's collaborate and build amazing things. 🚀
