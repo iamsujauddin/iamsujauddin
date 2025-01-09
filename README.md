@@ -13,10 +13,8 @@ I'm a **Java Backend Developer** who loves building scalable, efficient, and rel
 
 ## 📈 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamsujauddin&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsujauddin&theme=tokyonight" alt="GitHub Streak Stats" width="48%" />
-</p>
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsujauddin&show_icons=true&theme=tokyonight) | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamsujauddin&theme=tokyonight) |
+|----------------------------------------------------------|------------------------------------------------------------|
 
 ---
 
