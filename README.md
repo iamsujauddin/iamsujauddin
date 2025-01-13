@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm **SK Sujauddin**  
+# 👋 Hi there! I'm **Sk Sujauddin**  
 I'm a passionate **Java Backend Developer** specializing in **Spring Boot**, **Microservices**, and **Kafka**, crafting **high-performance**, **scalable**, and **robust** backend systems.
 
 | 🚀 **About Me** | ⚡ **What I Do** |
